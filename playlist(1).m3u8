@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/channelssdsd4_profile.jpg" tvg-server="Server 1",Aljazeera
+http://172.16.172.115:3255/Aljazeera/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/fimg1.jpg" tvg-server="Server 1",ALL Sports
+http://172.16.172.115:3255/dazn/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/c16e8633-6b2a-401a-9cd6-ac26a4fcdedb.webp" tvg-server="Server 1",AnimalPlanetHD
+http://172.16.172.115:3255/AnimalPlanetHD/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/channels4_psrofile.jpg" tvg-server="Server 1",ARYDigitalasia
+http://172.16.172.115:3255/ARYDigitalasia/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/atnbangla.jpg" tvg-server="Server 1",Atnbd
+http://172.16.172.115:3255/getchnk/atnnews/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/Banglavision.png" tvg-server="Server 1",BanglaV
+http://172.16.172.115:3255/BanglaV/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/unnamed.png" tvg-server="Server 1",Bein Spots 1
+http://172.16.172.115:3255/bein1-kh/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/d2a02d82-fde4-4769-a6d9-95c0560e2120.webp" tvg-server="Server 1",CartoonNetwork
+http://172.16.172.115:3255/CartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/Logo_of_Cha.png" tvg-server="Server 1",Ch24
+http://172.16.172.115:3255/CH24/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/channel9.jpg" tvg-server="Server 1",Ch9
+http://172.16.172.115:3255/ch9_nk/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/channeli.png" tvg-server="Server 1",Channel I
+http://172.16.172.115:3255/chnnel-i/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/deepto.jpg" tvg-server="Server 1",Deeptho
+http://172.16.172.115:3255/deeptho_nk/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/ssdsdsd.jpg" tvg-server="Server 1",DeshTV
+http://172.16.172.115:3255/DeshTV/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" tvg-server="Server 1",Discovery
+http://172.16.172.115:3255/Discovery/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/325887a7-84ea-4cf9-a6fd-6111ddc25671.webp" tvg-server="Server 1",DiscoveryKids
+http://172.16.172.115:3255/DiscoveryKids/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/images.jpg" tvg-server="Server 1",Ekattor
+http://172.16.172.115:3255/ekattor_nk/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/channels4_3434profile.jpg" tvg-server="Server 1",EKHONTV
+http://172.16.172.115:3255/EKHONTV/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/01709bcd-6d53-4710-a64f-bc49cecf1d61.webp" tvg-server="Server 1",EurosportHD
+http://172.16.172.115:3255/EurosportHD/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/images (7).png" tvg-server="Server 1",Gtv
+http://172.16.172.115:3255/gtv/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/images.png" tvg-server="Server 1",indiatoday
+http://172.16.172.115:3255/indiatoday/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/Jamuna%20Tv1664825738.png" tvg-server="Server 1",JamunaTv
+http://172.16.172.115:3255/JAMUNATV/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/MakkahLive.jpg" tvg-server="Server 1",MakkahLive
+http://172.16.172.115:3255/MakkahLive/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/unnamed(1).png" tvg-server="Server 1",MedinawithLive
+http://172.16.172.115:3255/MedinawithLive1/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/news24.png" tvg-server="Server 1",News24
+http://172.16.172.115:3255/NEWS24LIVE/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/channels4_profile.jpg" tvg-server="Server 1",Ntv
+http://172.16.172.115:3255/NTVLive1/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/7e7c2afe-a663-4c09-983a-2d0fa0f1ca9a.webp" tvg-server="Server 1",POGO
+http://172.16.172.115:3255/POGO/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/images(1).jpg" tvg-server="Server 1",Rtv
+http://172.16.172.115:3255/RTV/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/sky-sport-premier-league-logo-png_seeklogo-456293.png" tvg-server="Server 1",Skyspots
+http://172.16.172.115:3255/skyspots/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/somoy-news-tv_1.jpg" tvg-server="Server 1",somynews
+http://172.16.172.115:3255/somyyt/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/ea3358b9-2bec-4615-a889-daa2e396c74c.webp" tvg-server="Server 1",Sony Ten 1
+http://172.16.172.115:3255/SonytenSports1HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/ea3358b9-2bec-4615-a889-daa2e396c74c.webp" tvg-server="Server 1",Sony Ten 2
+http://172.16.172.115:3255/SonyTenSports2/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/f4db1c12-b10f-46e8-a09b-e0efb8820970.png" tvg-server="Server 1",SonyAath
+http://172.16.172.115:3255/SonyAath/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp" tvg-server="Server 1",SonyEnt
+http://172.16.172.115:3255/SonyEntertainmentTelevisionHD/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/sonymax.jpeg" tvg-server="Server 1",SonyMAX
+http://172.16.172.115:3255/SonyMAX/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp" tvg-server="Server 1",SonySABHD
+http://172.16.172.115:3255/SonySABHD/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/starjol.jpeg" tvg-server="Server 1",Star jalsha
+http://172.16.172.115:3255/star_jolsha/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/startmovies.png" tvg-server="Server 1",STARMovies
+http://172.16.172.115:3255/STARMovies/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/SS_logo.jpg" tvg-server="Server 1",Start Spots 1 HD
+http://172.16.172.115:3255/starthd1/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/795170c2-ec78-457e-9fa0-54a23d23361c.webp" tvg-server="Server 1",Ten Cricket
+http://172.16.172.115:3255/SonyTenCricket/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/0973097c-bc5c-4b28-aaca-f04d6f6cb5e2.webp" tvg-server="Server 1",TLCHD
+http://172.16.172.115:3255/TLCHD/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tnt-sports-logo-png_seeklogo-486966.png" tvg-server="Server 1",TNT 1
+http://172.16.172.115:3255/tnt1hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tnt-sports-logo-png_seeklogo-486966.png" tvg-server="Server 1",TNT 2
+http://172.16.172.115:3255/tnt2hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tnt-sports-logo-png_seeklogo-486966.png" tvg-server="Server 1",TNT Premium
+http://172.16.172.115:3255/tnthd/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" tvg-server="Server 1",Tspots
+http://172.16.172.115:3255/TSportsHD/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/willow-logo.jpg" tvg-server="Server 1",Willow HD
+http://172.16.172.115:3255/willow/index.m3u8
+# #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/zeecenema.jpeg" tvg-server="Server 1",Zee Cinema
+# http://172.16.172.115:3255/ZeeCinemaHD/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/6984812b-1c24-43cf-bded-3803c3f17bdd.png" tvg-server="Server 1",ZeeBangla
+http://172.16.172.115:3255/ZeeBangla/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/6984812b-1c24-43cf-bded-3803c3f17bdd.png" tvg-server="Server 2",ZeeBangla
+http://10.91.91.91:8080/35/index.m3u8
