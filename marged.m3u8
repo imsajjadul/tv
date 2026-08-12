@@ -129,7 +129,7 @@ http://10.91.91.91:8080/42/index.m3u8
 #http://103.141.64.249:8080/42/index.m3u8
 
 #ANIMAL PLANET HD
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://10.91.91.91/images/animalplanet.jng",ANIMAL PLANET HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://10.91.91.91/images/animalplanet.jpg",ANIMAL PLANET HD
 http://103.141.64.249:8080/45/index.m3u8
 #http://10.91.91.91:8080/45/index.m3u8
 
@@ -146,9 +146,11 @@ http://10.91.91.91:8080/28/index.m3u8
 #SONY TV HD
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://10.91.91.91/images/sonytv.jpg",SONY TV HD
 http://103.141.64.249:8080/33/index.m3u8
+#http://10.91.91.91:8080/33/index.m3u8
 
 #SONY PIX
-#http://103.141.64.249:8080/44/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://10.91.91.91/images/sonypix.jpg",SONY PIX
+http://10.91.91.91:8080/44/index.m3u8
 
 #SONY SAB
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://10.91.91.91/images/sonysabhd.jpg",SONY SAB
@@ -191,7 +193,7 @@ http://103.141.64.249:8080/08/index.m3u8
 #http://10.91.91.91:8080/08/index.m3u8
 
 #CNN News
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://10.91.91.91/images/cnnnews.jpg",CNN INTERNATIONAL
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://10.91.91.91/images/cnnnews.jpg",CNN INTERNATIONAL
 http://10.91.91.91:8080/09/index.m3u8
 
 # =========================
