@@ -1,9 +1,4 @@
 #EXTM3U
-
-# =========================
-# BANGLA
-# =========================
-
 #STAR JALSHA
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://10.91.91.91/images/starjalsha.jpg",STAR JALSHA
 http://103.141.64.249:8080/34/index.m3u8
@@ -42,7 +37,6 @@ http://103.141.64.249:8080/49/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://10.91.91.91/images/jamunatv.jpg",JAMUNA TV
 http://103.141.64.249:8080/01/index.m3u8
 #http://10.91.91.91:8080/01/index.m3u8
-
 
 #Somoy TV
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://10.91.91.91/images/somoy.jpg",SOMOY TV HD
@@ -119,10 +113,6 @@ http://103.141.64.249:8080/53/index.m3u8
 http://103.141.64.249:8080/37/index.m3u8
 #http://10.91.91.91:8080/37/index.m3u8
 
-# =========================
-# ENTERTAINMENT
-# =========================
-
 #DISCOVERY
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://10.91.91.91/images/discovery.jpg",DISCOVERY
 http://10.91.91.91:8080/42/index.m3u8
@@ -186,19 +176,6 @@ http://103.141.64.249:8080/38/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://10.91.91.91/images/cartoonnetwork.jpg",CARTOON NETWORK
 http://103.141.64.249:8080/39/index.m3u8
 #http://10.91.91.91:8080/39/index.m3u8
-
-#BBC News
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://10.91.91.91/images/bbcnews.jpg",BBC NEWS
-http://103.141.64.249:8080/08/index.m3u8
-#http://10.91.91.91:8080/08/index.m3u8
-
-#CNN News
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://10.91.91.91/images/cnnnews.jpg",CNN INTERNATIONAL
-http://10.91.91.91:8080/09/index.m3u8
-
-# =========================
-# SPORTS
-# =========================
 
 #T SPORTS HD
 #EXTINF:-1 group-title="Sports" tvg-logo="http://10.91.91.91/images/tsports.jpg",T SPORTS HD
