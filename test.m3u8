@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://10.91.91.91/images/starjalsha.jpg",STAR JALSHA
+http://103.141.64.249:8080/34/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://10.91.91.91/images/zeebanglahd.jpg",ZEE BANGLA HD
+http://103.141.64.249:8080/35/index.m3u8
